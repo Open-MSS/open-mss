@@ -12,7 +12,7 @@ requires-python = ">=3.8"
 classifiers = [
     "Programming Language :: Python :: 3",
     "Operating System :: OS Independent",
-    "License :: OSI Approved :: APACHE 2.0",
+    "License :: OSI Approved :: Apache Software License",
 ]
 
 [project.scripts]
