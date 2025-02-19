@@ -30,7 +30,8 @@
 
 
 def main_cli():
-    print("open-mss is a conda-forge package. You can install it with pixi. ")
+    print("open-mss is a conda-forge package. You can install it with pixi.")
+    print("")
     print("Get pixi from https://pixi.sh/latest/ for your operation system.")
     print("")
     print("pixi global install mss")

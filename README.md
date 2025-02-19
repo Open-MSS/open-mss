@@ -1,7 +1,3 @@
-**Chat:**
-[![IRC: #mss-general on libera.chat](https://img.shields.io/badge/libera.chat-%23MSS_General-blue)](https://web.libera.chat/?channels=#mss-general)
-[![IRC: #mss-gsoc on libera.chat](https://img.shields.io/badge/libera.chat-%23MSS_GSoC-brightgreen)](https://web.libera.chat/?channels=#mss-gsoc)
-
 
 Mission Support System Usage Guidelines
 =======================================
