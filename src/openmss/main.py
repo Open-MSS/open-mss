@@ -29,7 +29,7 @@
 """
 
 
-def main():
+def main_cli():
     print("open-mss is a conda-forge package.You can install it with pixi.")
     print("Get pixi from https://pixi.sh/latest/ for your operation system.")
     print("")
@@ -42,4 +42,4 @@ def main():
 
 
 if __name__ == "__main__":
-    main()
+    main_cli()
