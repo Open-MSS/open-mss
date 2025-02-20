@@ -1,6 +1,6 @@
 [project]
 name = "open-mss"
-version = "0.0.1"
+version = "9.0.0"
 
 maintainers = [
   { name="Reimar Bauer", email="rb.proj@gmail.com" },
