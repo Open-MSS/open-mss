@@ -1,4 +1,3 @@
-
 Mission Support System Usage Guidelines
 =======================================
 
